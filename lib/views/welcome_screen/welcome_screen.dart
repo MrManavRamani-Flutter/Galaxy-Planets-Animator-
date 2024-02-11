@@ -25,10 +25,10 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     _rotationAnimation = Tween<double>(begin: 0, end: 1).animate(_controller);
     _controller.forward();
 
-    Future.delayed(Duration(seconds: 3), () {
+    Future.delayed(const Duration(seconds: 3), () {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => HomeScreen()),
+        MaterialPageRoute(builder: (context) => const HomeScreen()),
       );
     });
   }

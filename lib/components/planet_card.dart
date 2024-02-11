@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:galaxy_planets_animator/modeles/planet_model.dart';
+import 'package:galaxy_planets_animator/models/planet_model.dart';
 
 class PlanetCard extends StatelessWidget {
   final List<PlanetModel> planets;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:galaxy_planets_animator/modeles/planet_model.dart';
+import 'package:galaxy_planets_animator/models/planet_model.dart';
 import 'package:galaxy_planets_animator/views/detail_screen/widgets/desc_text.dart';
 import 'package:galaxy_planets_animator/views/detail_screen/widgets/detail_row.dart';
 import 'package:galaxy_planets_animator/views/detail_screen/widgets/section_title.dart';
