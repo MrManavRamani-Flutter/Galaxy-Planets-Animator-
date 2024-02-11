@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:galaxy_planets_animator/provider/planet_provider.dart';
 import 'package:galaxy_planets_animator/views/welcome_screen/welcome_screen.dart';
-import 'package:get/get.dart';
+import 'package:provider/provider.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,9 +12,14 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const GetMaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: WelcomeScreen(),
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (context) => PlanetProvider()),
+      ],
+      child: MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: WelcomeScreen(),
+      ),
     );
   }
 }
