@@ -7,21 +7,7 @@ A new Flutter project.
 https://github.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/095a8ae3-0459-44ae-a406-6a78408e862f
 
 ## Screen Designs... 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/ccc39b6f-fece-4dd7-a4e7-69110d7412bd" height="200px"></td>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/46e3b68b-8a8c-413b-bd8f-642b4ff708ea" height="200px"></td>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/c3f81077-62f7-4d76-94f9-13dbfd592476" height="200px"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/652ef761-15c7-423e-858a-6f1a7b1cd2e6" height="200px"></td>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/a80a991f-8d86-4882-bee7-09d7e4d823d4" height="200px"></td>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/de2265d6-5311-42ad-b45f-a3cfbe18914b" height="200px"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/3f4dbc96-0d83-400b-8dde-c671740b8f18" height="200px"></td>
-  </tr>
-</table>
+<table><tr><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/ccc39b6f-fece-4dd7-a4e7-69110d7412bd" height="200px"></td><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/46e3b68b-8a8c-413b-bd8f-642b4ff708ea" height="200px"></td><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/c3f81077-62f7-4d76-94f9-13dbfd592476" height="200px"></td></tr><tr><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/652ef761-15c7-423e-858a-6f1a7b1cd2e6" height="200px"></td><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/a80a991f-8d86-4882-bee7-09d7e4d823d4" height="200px"></td><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/de2265d6-5311-42ad-b45f-a3cfbe18914b" height="200px"></td></tr><tr><td><img src="https://raw.githubusercontent.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/3f4dbc96-0d83-400b-8dde-c671740b8f18" height="200px"></td></tr></table>
 
 ![g1](https://github.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/ccc39b6f-fece-4dd7-a4e7-69110d7412bd)
 ![g2](https://github.com/MrManavRamani-Flutter/Galaxy-Planets-Animator-/assets/148671843/46e3b68b-8a8c-413b-bd8f-642b4ff708ea)
